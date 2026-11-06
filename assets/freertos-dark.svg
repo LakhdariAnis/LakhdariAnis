@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 258" width="900" height="258"><style>.p{stroke-dashoffset:108;opacity:0;animation:go 6s linear infinite}
-    @keyframes go{0%{stroke-dashoffset:108;opacity:0}40.0%{stroke-dashoffset:108;opacity:1}60.0%{stroke-dashoffset:0;opacity:1}62.0%,100%{stroke-dashoffset:0;opacity:0}}
-    .bk{stroke:#a3c2b3;animation:hit 6s linear infinite}@keyframes hit{0%,60.0%{stroke:#a3c2b3}61.0%{stroke:#ffd75e}72.0%,100%{stroke:#a3c2b3}}
+    @keyframes go{0%{stroke-dashoffset:108;opacity:0}33.3%{stroke-dashoffset:108;opacity:1}50.0%{stroke-dashoffset:0;opacity:1}52.0%,100%{stroke-dashoffset:0;opacity:0}}
+    .bk{stroke:#a3c2b3;animation:hit 6s linear infinite}@keyframes hit{0%,50.0%{stroke:#a3c2b3}51.0%{stroke:#ffd75e}62.0%,100%{stroke:#a3c2b3}}
     .dot{animation:blink 1.6s ease-in-out infinite}@keyframes blink{50%{opacity:.35}}@media (prefers-reduced-motion:reduce){*{animation:none!important}.p{opacity:0}}</style><defs><clipPath id="im"><rect x="78" y="52" width="240" height="150" rx="3"/></clipPath></defs><rect width="900" height="258" fill="#0c2a1f"/>
   <line x1="30" y1="0" x2="30" y2="258" stroke="#3a9a6f" stroke-width="3" stroke-linecap="round"/><polyline points="30,127 46,127 62,111 72,111" fill="none" stroke="#3a9a6f" stroke-width="3" stroke-linejoin="round"/>
   <path class="p" d="M30 0V127H46L62 111H72" pathLength="100" fill="none" stroke="#ffd75e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 100"/>
