@@ -13,11 +13,11 @@ Hi, I'm Anis, a 5th-year computer science engineering student at ESI Sidi Bel Ab
 <a href="https://github.com/LakhdariAnis/AVR-Dual-Node-Serial-Communication-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/avr-dark.svg"><img src="assets/avr-light.svg" width="100%" alt="AVR dual-node serial link. Simulated in SimulIDE. A keypad master sends each key over USART to a 7-segment slave, with USART and GPIO set in the registers. 9600 baud, 8N1. Tools: C++, AVR-GCC, avr-libc, SimulIDE. Hardware: 2x ATmega328P, 4x3 matrix keypad, 7-segment display."></picture></a>
 <a href="https://github.com/LakhdariAnis/robot-telemetry-monitoring"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/telemetry-dark.svg"><img src="assets/telemetry-light.svg" width="100%" alt="Robot telemetry monitoring. Simulated data, never on the real car. MQTT and InfluxDB telemetry for a mobile robot, a rule-based anomaly detector on Flux queries with 4 rules, and a live FastAPI and React dashboard with fault injection. 18-scenario stress test. Tools: Python, MQTT, InfluxDB, Flux, FastAPI, React, WebSocket, Docker. Stack: Mosquitto, InfluxDB 2, Docker Compose, car simulator with 7 faults."></picture></a>
 
-## Tools I use
+## Tools and coursework
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <img src="assets/tools-light.svg" width="100%" alt="Embedded: C, C++, FreeRTOS, AVR-GCC, PlatformIO, SimulIDE, Raspberry Pi. ML and data: Python, TensorFlow, TFLite int8, NumPy, SciPy, scikit-learn, pandas, Matplotlib. Vision and robotics: ORB-SLAM3, OpenCV, ArUco. Systems: ZeroMQ, MQTT, FastAPI, Flask, InfluxDB, Docker, Linux, Git, CMake.">
+  <img src="assets/tools-light.svg" width="100%" alt="Focus. Embedded: C, C++, FreeRTOS, AVR-GCC, PlatformIO, SimulIDE, Raspberry Pi. ML and data: Python, TensorFlow, TFLite int8, NumPy, SciPy, scikit-learn, pandas, Matplotlib. Vision and robotics: ORB-SLAM3, OpenCV, ArUco. IoT and systems: MQTT, InfluxDB, ZeroMQ, Docker, Linux, Git, CMake. Also. Mobile: Flutter, Dart, Kotlin. Back end: Node.js, Express, FastAPI, Flask, Prisma, PostgreSQL, MongoDB, JWT. Front end: React, Next.js, TypeScript, JavaScript. Coursework: Oracle SQL, PL/SQL triggers, ETL with Pentaho, Power BI, Redis, Cassandra, Neo4j, KNN, k-means, PCA.">
 </picture>
 
 ## Contact
